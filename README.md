@@ -15,8 +15,10 @@
 <p align="left">✨Hi, I’m, a Flutter Developer  responsible for Android and IOS app Development
   <br>
   
-  📚 I'm currently learning Flutter & Kotlin <br>
-  🌱 I’m currently working Flutter<br>
+  📚 I'm currently learning Flutter & Kotlin 
+  <br>
+  🌱 I’m currently working on Flutter
+  <br>
   📫 How to reach me eng.mohammadshoaib98@gmail.com
   </p>
 
