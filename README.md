@@ -64,7 +64,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MohammadShoaib023/snake.svg" alt="Snake animation" />
+<img src="https://github.com/MohammadShoaib023/MohammadShoaib023/blob/main/snack.yml" alt="Snake animation" />
 
 ###
 
