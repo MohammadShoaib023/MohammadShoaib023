@@ -10,7 +10,7 @@
 <h2 align="left">A Passionate Flutter and Native Developer</h2>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-###
+
 
 <p align="left">✨Hi, I’m, a Flutter Developer  responsible for Android and IOS app Development<br>📚 I'm currently learning Flutter & Kotlin <br>🌱 I’m currently working Flutter<br>📫 How to reach me eng.mohammadshoaib98@gmail.com</p>
 
@@ -64,14 +64,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
 </div>
 
-###
 
-<img src="https://github.com/MohammadShoaib023/MohammadShoaib023/blob/main/snack.yml" alt="Snake animation" />
-
-###
-
-<img align="right"alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-###
 
 
 
