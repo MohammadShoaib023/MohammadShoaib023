@@ -96,7 +96,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadshoaib023&show_icons=true&locale=en" alt="mohammadshoaib023" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadshoaib023&" alt="mohammadshoaib023" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=Mohammadshoaib023&" alt="mohammadshoaib023" /></p>
 
 
 
