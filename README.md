@@ -14,16 +14,16 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left">✨Hi, I’m a Flutter Developer  responsible for Android and IOS app Development
+<p align="left">✨Hi, I’m a Flutter Developer responsible for Android and IOS app Development
   <br>
   
-  📚 I'm currently learning Flutter & Kotlin 
+  📚-  I’m looking to collaborate and become more participatory in the community
   <br>
   
-  🌱 I’m currently working on Flutter
+  🌱 I’m currently working as Flutter Developer
   <br>
   
-  📫 How to reach me eng.mohammadshoaib98@gmail.com
+  📫 How to reach me: eng.mohammadshoaib98@gmail.com
   </p>
 
 ###
