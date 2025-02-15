@@ -80,8 +80,8 @@
 - **Clean Architecture, MVC, MVVM**  
 - **BLoC, Cubit, GetX, Provider**  
 - **SQLite, Hive, Supabase, Firebase (All Services)**  
-- **Testing, CI/CD (CodeMagic, GitHub Actions)**  
-- **Maps, Location Services, Live Tracking**  
+- **Testing, CI/CD (CodeMagic, GitHub Actions, fastlane)**  
+- **Maps, MapBox, OpenStreetMap, Location Services, Live Tracking**  
 
 ### 🎨 **UI/UX**
 - **Responsive Design**  
@@ -89,7 +89,7 @@
 - **Animations (Lottie, Smooth Scroll)**  
 
 ### 📊 **Other Technologies**
-- **Flutter Flavors, Shorebird**  
+- **Flutter Flavors, Shorebird, OneSignal, AppsFlyer**  
 - **Sentry, SmartLook, FCM**  
 - **Video/Audio Playback, Text-to-Image**  
 - **Social Media Authentication**  
