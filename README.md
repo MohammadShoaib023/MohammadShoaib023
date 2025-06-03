@@ -1,6 +1,6 @@
 
 <h1 align="left">Hey 👋 What's up?</h1>
-<p align="center"><a href="https://linktr.ee/mohammadshoaib023"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=600&center=true&vCenter=true&width=700&height=200&lines=Mohammad+Shoaib+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Flutter+Mobile+Development+💙;Software+Engineer;Leadership+%26+Management+;:)" alt="Typing SVG" /></a>
+
   
 ###
 
